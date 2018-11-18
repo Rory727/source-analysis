@@ -1,4 +1,4 @@
-package com.leo;
+package com.leo.pattern;
 
 /**
  * Hello world!
